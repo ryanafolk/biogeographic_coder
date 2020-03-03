@@ -4,7 +4,7 @@ This code was written as a solution to address some inefficient and inflexible c
 To those planning to use the script: The output is unformatted shapefile metadata. You will need to use some simple search-and-replace functions to turn these into a neater alphanumeric coding.
 
 For input data, both occurrence records and shapefiles should already be ESRI shapefiles. Conversion can be done with GDAL tools. The script is for Python3 and uses the following dependences:
-#ogr
-#fiona 
-#shapely
-#rtree
+* ogr
+* fiona 
+* shapely
+* rtree
