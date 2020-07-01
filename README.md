@@ -8,3 +8,9 @@ For input data, both occurrence records and shapefiles should already be ESRI sh
 * fiona 
 * shapely
 * rtree
+
+# Explanation of Files
+* biogeo_coding_ogr_bettermemory.py&mdash;Python script for biogeographic coding.
+* biogeomatrix_7regions.txt&mdash;Result file for Saxifragales analysis.
+* biogeomatrix_7regions_treematched.txt&mdash;Result file for Saxifragales analysis, matched to phylogenetic sampling.
+* biogeo_big_saxi.R&mdash;Run file for BioGeoBEARS.
