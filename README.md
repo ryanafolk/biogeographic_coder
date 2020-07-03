@@ -14,3 +14,4 @@ For input data, both occurrence records and shapefiles should already be ESRI sh
 * biogeomatrix_7regions.txt&mdash;Result file for Saxifragales analysis.
 * biogeomatrix_7regions_treematched.txt&mdash;Result file for Saxifragales analysis, matched to phylogenetic sampling and in BioGeoBEARS format.
 * biogeo_big_saxi.R&mdash;Run file for BioGeoBEARS.
+* geography_ultrametric_occur_matched.tre&mdash;Tree used for BioGeoBEARS, with sampling matched to geographic classifications.
